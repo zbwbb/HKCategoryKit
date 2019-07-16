@@ -1,0 +1,16 @@
+PODS:
+  - HKCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - HKCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  HKCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HKCategoryKit: daefa1916381ae1f18e123563d876b049a49d8fb
+
+PODFILE CHECKSUM: 76f088849693f519088a736888968ddd81c837ee
+
+COCOAPODS: 1.5.3
